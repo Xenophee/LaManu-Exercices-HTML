@@ -1,0 +1,26 @@
+.identite {
+    background-color: #1C74BD;
+}
+
+.legendeIdentite {
+    height: 30px;
+    background-color: #1C74BD;
+}
+
+.livraison {
+    background-color: #821CBD;
+}
+
+.legendeLivraison {
+    height: 30px;
+    background-color: #821CBD;
+}
+
+.reglement {
+    background-color: #D8260E;
+}
+
+.legendeReglement {
+    height: 30px;
+    background-color: #D8260E
+}
